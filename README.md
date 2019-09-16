@@ -6,4 +6,4 @@ Is's written in plain C/C++ and a bit of Assembly and it focuses on:
 * Kernel core design
 * Implementation of OS sub system responsible for Thread creation, management and process(Thread) communication using *Shared Variable* concept such as **Semaphores and Events**
 ## NOTE:
-Check spec for more info
+Check http://os.etf.bg.ac.rs/OS1/projekat.htm for more info
