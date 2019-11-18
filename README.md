@@ -1,4 +1,4 @@
-# OS1
+# OS1 - Operativni sistemi 1
 Project developed for course "Operating Systems 1" (2018)
 ## ABOUT:
 Project was implemented as a part of the aforementioned course (40%)
